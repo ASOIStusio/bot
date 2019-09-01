@@ -1,0 +1,89 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 290547245,
+      "message": {
+        "message_id": 309,
+        "from": {
+          "id": 832900970,
+          "is_bot": false,
+          "first_name": "Daniil",
+          "last_name": "Domaskanov",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 832900970,
+          "first_name": "Daniil",
+          "last_name": "Domaskanov",
+          "type": "private"
+        },
+        "date": 1565124259,
+        "text": "/random_people",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 14,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 290547246,
+      "message": {
+        "message_id": 311,
+        "from": {
+          "id": 832900970,
+          "is_bot": false,
+          "first_name": "Daniil",
+          "last_name": "Domaskanov",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 832900970,
+          "first_name": "Daniil",
+          "last_name": "Domaskanov",
+          "type": "private"
+        },
+        "date": 1565124264,
+        "text": "/random_people",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 14,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 290547247,
+      "message": {
+        "message_id": 314,
+        "from": {
+          "id": 832900970,
+          "is_bot": false,
+          "first_name": "Daniil",
+          "last_name": "Domaskanov",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 832900970,
+          "first_name": "Daniil",
+          "last_name": "Domaskanov",
+          "type": "private"
+        },
+        "date": 1565124360,
+        "text": "/random_people",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 14,
+            "type": "bot_command"
+          }
+        ]
+      }
+    }
+  ]
+}
